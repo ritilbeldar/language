@@ -1,0 +1,21 @@
+{
+    "welcome_message": "Hye this is home page",
+    "status": "Task completed",
+
+    "about_heding": "About the task",
+    "titel_1": "This is react application",
+    "titel_2": "This application support 5 languages",
+    "titel_3": "Total 2 page and 3 components in this application",
+    "titel_4": "In this application default language is English",
+
+    "home": "home",
+    "about": "about",
+    "name": "Task",
+
+    "todo_title": "You can also create todolist",
+    "Description": "Description",
+    "button": "Create",
+    "button2": "Change",
+    "task_status": "Pending Tasks...",
+    "full_name": "language change"
+  }

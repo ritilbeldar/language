@@ -1,0 +1,22 @@
+{
+    "welcome_message": "嘿，这是主页",
+    "status": "任务完成",
+
+    "about_heding": "关于任务",
+    "titel_1": "这是反应应用程序",
+    "titel_2": "此应用程序支持 5 种语言",
+    "titel_3": "此应用程序共有 2 个页面和 3 个组件",
+    "titel_4": "在此应用程序中，默认语言是英语",
+
+    "home": "家",
+    "about": "关于",
+    "name": "任务",
+
+    "todo_title": "您还可以创建待办事项列表",
+    "Description": "描述",
+    "button": "创造",
+    "button2": "改变",
+    "task_status": "待处理任务...",
+    "full_name": "语言变化"
+  }
+
